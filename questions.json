@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "level": "GCSE",
+        "topic": "Algorithms",
+        "difficulty": "Easy",
+        "question": "State what is meant by the term algorithm.",
+        "marks": 2,
+        "answer": "A step-by-step set of instructions used to solve a problem or complete a task."
+    },
+    {
+        "id": 2,
+        "level": "GCSE",
+        "topic": "Programming",
+        "difficulty": "Medium",
+        "question": "Explain the difference between a syntax error and a logic error.",
+        "marks": 4,
+        "answer": "A syntax error breaks the rules of the programming language and may stop the program running. A logic error allows the program to run but produces an incorrect result."
+    },
+    {
+        "id": 3,
+        "level": "GCSE",
+        "topic": "Networks",
+        "difficulty": "Medium",
+        "question": "Describe two advantages of using a client-server network.",
+        "marks": 4,
+        "answer": "Centralised management, easier backups, improved security, shared resources, and easier user account control."
+    },
+    {
+        "id": 4,
+        "level": "GCSE",
+        "topic": "Cyber Security",
+        "difficulty": "Medium",
+        "question": "Describe two ways a user can reduce the risk of phishing attacks.",
+        "marks": 4,
+        "answer": "Check sender addresses, avoid clicking suspicious links, use multi-factor authentication, verify requests through another channel, and report suspicious emails."
+    },
+    {
+        "id": 5,
+        "level": "GCSE",
+        "topic": "Data Representation",
+        "difficulty": "Easy",
+        "question": "Convert the binary number 1011 into denary.",
+        "marks": 2,
+        "answer": "11"
+    },
+    {
+        "id": 6,
+        "level": "GCSE",
+        "topic": "Databases",
+        "difficulty": "Medium",
+        "question": "Explain why a primary key is used in a database table.",
+        "marks": 3,
+        "answer": "A primary key uniquely identifies each record in a table and prevents duplicate records."
+    },
+    {
+        "id": 7,
+        "level": "A Level",
+        "topic": "Object-Oriented Programming",
+        "difficulty": "Medium",
+        "question": "Explain the purpose of encapsulation in object-oriented programming.",
+        "marks": 4,
+        "answer": "Encapsulation keeps data and methods together within a class and restricts direct access to internal data, improving maintainability and data protection."
+    },
+    {
+        "id": 8,
+        "level": "A Level",
+        "topic": "Algorithms",
+        "difficulty": "Hard",
+        "question": "Explain why merge sort has a time complexity of O(n log n).",
+        "marks": 5,
+        "answer": "The list is repeatedly divided into halves, creating log n levels of splitting. At each level, all n items are processed during merging, giving O(n log n)."
+    },
+    {
+        "id": 9,
+        "level": "A Level",
+        "topic": "Databases",
+        "difficulty": "Medium",
+        "question": "Explain what is meant by third normal form.",
+        "marks": 4,
+        "answer": "A table is in third normal form when it is in second normal form and has no non-key dependencies. Non-key attributes must depend only on the primary key."
+    },
+    {
+        "id": 10,
+        "level": "A Level",
+        "topic": "Processor Architecture",
+        "difficulty": "Medium",
+        "question": "Describe the role of the program counter in the fetch-decode-execute cycle.",
+        "marks": 3,
+        "answer": "The program counter stores the address of the next instruction to be fetched from memory. It is updated after an instruction is fetched."
+    },
+    {
+        "id": 11,
+        "level": "A Level",
+        "topic": "Boolean Algebra",
+        "difficulty": "Hard",
+        "question": "Simplify the Boolean expression A AND 1.",
+        "marks": 2,
+        "answer": "A"
+    },
+    {
+        "id": 12,
+        "level": "A Level",
+        "topic": "Software Development",
+        "difficulty": "Medium",
+        "question": "Explain one benefit of using version control during software development.",
+        "marks": 3,
+        "answer": "Version control allows developers to track changes, revert to previous versions, collaborate safely, and manage branches of development."
+    }
+]
